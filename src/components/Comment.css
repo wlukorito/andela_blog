@@ -1,0 +1,19 @@
+.comment {
+    background-color: rgb(206, 240, 206);
+    padding: 10px;
+    margin: 10px 0px;
+    border-radius: 5px;
+}
+
+.email {
+    font-weight: bold;
+}
+
+.name {
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.body {
+    font-size: 14px;
+}
